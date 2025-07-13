@@ -1,0 +1,11 @@
+Percentile,Income Range,Median Income,Households (M),Class
+0–10%,"$0–$15,000",9000,13,Working Class
+10–20%,"$15,001–$30,000",22000,13,Working Class
+20–30%,"$30,001–$45,000",38000,13,Working Class
+30–40%,"$45,001–$60,000",52000,13,Lower Middle
+40–50%,"$60,001–$75,000",68000,13,Middle Class
+50–60%,"$75,001–$90,000",83000,13,Middle Class
+60–70%,"$90,001–$110,000",100000,13,Upper Middle
+70–80%,"$110,001–$150,000",130000,13,Upper Middle
+80–90%,"$150,001–$200,000",175000,13,Upper Class
+90–100%,"$200,001+",275000,13,Upper Class
