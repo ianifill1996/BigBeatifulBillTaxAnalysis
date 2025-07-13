@@ -35,8 +35,17 @@ BigBeautifulBill/
 ├── simulate_policy.py
 └── README.md
 
+##Tableau WorkBook
+## Tableau Workbook
+
+You can download the full Tableau workbook here:  
+## Tableau Workbook
+
+You can download the full Tableau workbook here:  
+[Big Beautiful Bill Tableau Workbook](./tableau/BigBeautifulBill.twbx)
 
 ## How to Run the Simulation
+
 
 1. Make sure all CSV data files are placed in the `data/` directory.  
 2. Run the Python script to generate updated simulation results:
