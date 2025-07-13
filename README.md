@@ -45,7 +45,7 @@ Download the full Tableau workbook and source Excel file:
 
 > Requires Tableau Public Desktop or Tableau Desktop to open.
 
-##Tax Simulation Script
+## Tax Simulation Script
 The main tax simulation logic is in:
 
 - [simulate_policy.py](./analysis/simulate_policy.py)
